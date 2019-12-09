@@ -2,7 +2,7 @@
 
 ### Requirements:
 
-The notebook is run using Python 3. The code has been heavily tested using Python 3.7, but anything above 3.5 should be a safe bet.
+The notebook is run using Python 3. The code has been heavily tested using Python 3.6.9, but anything above 3.5 should be a safe bet.
 > **Note:** You may need to use `python3` before your commands to ensure you use the correct Python path. e.g. `python3 --version`
 
 ```bash
