@@ -36,7 +36,7 @@ $ pip install -r requirements.txt
 
 We recommend that you view the notebook on your local machine, or on Jupyter's [NBviewer][nb-viewer]. 
 
-**Warning: If you view the notebook directly on Github, some of the interactive map visualizations by the folium library may not render, due to a bug on Github. This issue can be solved by viewing the notebook on NBviewer or on your local machine. **
+**Warning: If you view the notebook directly on Github, some of the interactive map visualizations by the folium library may not render, due to a bug on Github. This issue can be solved by viewing the notebook on NBviewer or on your local machine.**
 
 
 
