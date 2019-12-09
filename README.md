@@ -2,7 +2,7 @@
 
 ### Requirements:
 
-The notebook is run using Python 3. The app has been heavily tested using Python 3.7, but anything above 3.5 should be a safe bet.
+The notebook is run using Python 3. The code has been heavily tested using Python 3.7, but anything above 3.5 should be a safe bet.
 > **Note:** You may need to use `python3` before your commands to ensure you use the correct Python path. e.g. `python3 --version`
 
 ```bash
@@ -32,9 +32,15 @@ $ pip3 install -r requirements.txt
 $ pip install -r requirements.txt
 ```
 
+### Recommended View:
+
+We recommend that you view the notebook on your local machine, or on Jupyter's [NBviewer][nb-viewer]. 
+
+**Warning: If you view the notebook directly on Github, some of the interactive map visualizations by the folium library may not render, due to a bug on Github. This issue can be solved by viewing the notebook on NBviewer or on your local machine. **
+
 
 
 <!-- Markdown links -->
-
+[nb-viewer]: https://nbviewer.jupyter.org/
 [kaggle-dataset]: https://www.kaggle.com/hugomathien/soccer
 
